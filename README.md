@@ -15,7 +15,7 @@ Building complex, modular Angular applications requires a solid understanding of
    ```bash
    cd <project-directory>
    ```
-   Replace `di-services-angular-demo with the name of the directory created when you cloned the repository.
+   Replace `di-services-angular-demo` with the name of the directory created when you cloned the repository.
 
 3. **Install Dependencies:**
    ```bash
